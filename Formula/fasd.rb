@@ -1,8 +1,8 @@
 class Fasd < Formula
   desc "CLI tool for quick access to files and directories"
   homepage "https://github.com/raxod502/fasd"
-  url "https://github.com/raxod502/fasd/archive/1.0.1.tar.gz"
-  sha256 "88efdfbbed8df408699a14fa6c567450bf86480f5ff3dde42d0b3e1dee731f65"
+  url "https://github.com/raxod502/fasd/archive/1.0.2.tar.gz"
+  sha256 "1031d1de88c9431fa33b84aa826b3a25a0896fc7243d62759101c74a15017677"
   head "https://github.com/raxod502/fasd.git"
 
   bottle :unneeded
